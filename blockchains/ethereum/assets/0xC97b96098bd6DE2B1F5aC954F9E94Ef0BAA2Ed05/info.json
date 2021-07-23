@@ -1,0 +1,17 @@
+{
+    "name": "eTaco-v2",
+    "website": "https://www.tacoswap.io",
+    "description": ".",
+    "explorer": "https://etherscan.io/token/0xC97b96098bd6DE2B1F5aC954F9E94Ef0BAA2Ed05",
+    "type": "ERC20",
+    "symbol": "eTACO(v2)",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC97b96098bd6DE2B1F5aC954F9E94Ef0BAA2Ed05",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/TacoswapCRD"
+        }
+    ]
+}
